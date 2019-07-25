@@ -1,12 +1,4 @@
-## A few parts of this project are not in the public domain
-
-Detail these.
-
-### Project dependencies
-
-List any dependencies with their licenses.
-
-## The rest of this project is in the public domain
+## This project is in the public domain
 
 As a work of the United States Government, this project is in the
 public domain within the United States.

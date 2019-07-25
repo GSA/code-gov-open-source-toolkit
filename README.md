@@ -8,7 +8,6 @@ This is a government-wide project facilitated by the [Code.gov](https://code.gov
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Contributing](CONTRIBUTING.md)
 - [License](LICENSE.md)
-- [Readme](README.md)
 
 ## Installation: 
 TBD - when there is something to install. Beginning with aggregating content and using site for discussion thread around the playbook and toolkit.
@@ -17,10 +16,10 @@ TBD - when there is something to install. Beginning with aggregating content and
 TBD - see Installation above.
 
 ## Contributing:
-See our Contributing guidelines.
+See our [Contributing](CONTRIBUTING.md) guidelines.
 
 ## License: 
-This is a federal government project with all content, code, and artifacts subject to Creative Commons Zero (CC0) 1.0 or "No Rights Reserved." More info in our [LICENSE](LICENSE.md).
+This is a federal government project with all content, code, and artifacts subject to Creative Commons Zero (CC0) 1.0 Universal or "No Rights Reserved." More info in our [LICENSE](LICENSE.md).
 
 ## Questions?
 If you have questions, please feel free to contact us:  
