@@ -24,5 +24,5 @@ This is a federal government project with all content, code, and artifacts subje
 
 ## Questions?
 If you have questions, please feel free to contact us:  
-* Open an issue in this repo
-* [Email](mailto:code@gsa.gov)
+* Open an [issue](../blob/master/issues) in this repo
+* [Email](mailto:code@gsa.gov) us
