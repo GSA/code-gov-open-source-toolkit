@@ -9,11 +9,14 @@ This is a government-wide project facilitated by the [Code.gov](https://code.gov
 - [Contributing](CONTRIBUTING.md)
 - [License](LICENSE.md)
 
+<!--
 ## Installation: 
 TBD - when there is something to install. Beginning with aggregating content and using site for discussion thread around the playbook and toolkit.
 
 ## Usage:
 TBD - see Installation above.
+
+-->
 
 ## Contributing:
 See our [Contributing](CONTRIBUTING.md) guidelines.
