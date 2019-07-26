@@ -1,4 +1,4 @@
-# Open source playbook and toolkit content
+# Open source playbook and toolkit
 
 ## Description:
 This is a government-wide project facilitated by the [Code.gov](https://code.gov/) team to produce a playbook and toolkit pertaining to open sourcing software (OSS).
@@ -9,11 +9,7 @@ Excerpt from the initial [Open Source Playbook & Tookit Working Group](xxx) writ
 
 > The goal is to provide info, examples and resources on what really well managed open source projects look like and to give additional federal guidance for developers to follow when publishing projects.
 
-## Table of Contents: 
-- [Background docs](background_docs)
-- [Code of Conduct](CODE_OF_CONDUCT.md)
-- [Contributing](CONTRIBUTING.md)
-- [License](LICENSE.md)
+Additional content urging us to begin this effort can be found in the [background docs](background_docs) section including the [Harvard Engagement Report](xxx), a recent [UX study](xxx) we conducted and blogged about, and [Q&A](xxx) from the first meeting with agencies before official kick-off.
 
 <!--
 ## Installation: 
@@ -24,8 +20,14 @@ TBD - see Installation above.
 
 -->
 
+## Table of contents: 
+- [Background docs](background_docs)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Contributing](CONTRIBUTING.md)
+- [License](LICENSE.md)
+
 ## Contributing:
-See our [Contributing](CONTRIBUTING.md) guidelines.
+We welcome all contributions - Issues are good, PRs are better. Check out our [Contributing](CONTRIBUTING.md) guidelines for specifics.
 
 ## License: 
 This is a federal government project with all content, code, and artifacts subject to Creative Commons Zero (CC0) 1.0 Universal or "No Rights Reserved." More info in our [LICENSE](LICENSE.md).
