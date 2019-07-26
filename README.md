@@ -1,6 +1,8 @@
 # Open source playbook and toolkit
 ### By [Code.gov](https://code.gov/) for federal agencies
 
+&nbsp;
+
 ## Description:
 This is a government-wide project facilitated by the [Code.gov](https://code.gov/) team to produce a playbook and toolkit pertaining to open sourcing software (OSS).
 
