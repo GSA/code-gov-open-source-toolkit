@@ -3,6 +3,12 @@
 ## Description:
 This is a government-wide project facilitated by the [Code.gov](https://code.gov/) team to produce a playbook and toolkit pertaining to open sourcing software (OSS).
 
+Excerpt from the initial [Open Source Playbook & Tookit Working Group](xxx) write-up.
+
+> In the Code.gov open source inventory we are seeing an ongoing issue where agencies are publishing their open source code, but the projects are not set up in a way which makes the code reusable.  In order to better align agency projects with the goals of the Federal Source Code Policy, the Code.gov team is launching an open source playbook and toolkit. We’re hoping to provide additional resources for open source maintainers to help support the growing community.
+
+> The goal is to provide info, examples and resources on what really well managed open source projects look like and to give additional federal guidance for developers to follow when publishing projects.
+
 ## Table of Contents: 
 - [Background docs](background_docs)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
