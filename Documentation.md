@@ -81,9 +81,9 @@ Provide helpful links and information
 * Rust-lang Contributing documentation
 * Rust-lang Readme with quickstart documentation
 * Rust-lang Governance documentation
-* Jekyll’s Readme highlights contributors, sponsors and backers with quickstart info
-* Jekyll’s Contributing documentation gives examples of types of contributions and expectations for submitting PRs
-* Kubernetes Community Expectations documentation
-* Kubernetes Community Membership documentation 
-* Homebrew documentation
-* CocoaPods Guides and documentation
+* [Jekyll’s Readme](https://github.com/jekyll/jekyll) highlights contributors, sponsors and backers with [quickstart](https://jekyllrb.com/docs/) info
+* [Jekyll’s Contributing](https://jekyllrb.com/docs/contributing/) documentation gives examples of types of contributions and expectations for submitting PRs
+* [Kubernetes Community Expectations](https://github.com/kubernetes/community/blob/master/contributors/guide/community-expectations.md) documentation
+* [Kubernetes Community Membership](https://github.com/kubernetes/community/blob/master/community-membership.md) documentation 
+* [Homebrew](https://docs.brew.sh/) documentation
+* [CocoaPods Guides and documentation](https://guides.cocoapods.org/)
