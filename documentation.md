@@ -71,16 +71,16 @@ Provide helpful links and information
 * https://developers.google.com/season-of-docs/ - fostering open source collaboration with technical writers
 * https://github.com/jekyll/jekyll/blob/master/README.markdown - I like how contributors are highlighted in README
 * https://joss.theoj.org/about - Journal of Open Source Software
-* GitHub in Government – a markdown file with many helpful links to training, tutorials, videos, onboarding and other documentation (including something you did on version control!)
-* Contributing to Data.gov with GitHub 101 – Data.gov’s guidance to their contributors
-* Using GitHub – LLNL’s guide for getting started with GitHub, specific to LLNL developers working in the LLNL GitHub organization
-* GitHub – TTS Handbook on setup, rules, how-to, tips and resources
-* WP-CLI Contributing documentation
-* WP-CLI Quickstart documentation
-* WP-CLI Troubleshooting documentation
-* Rust-lang Contributing documentation
-* Rust-lang Readme with quickstart documentation
-* Rust-lang Governance documentation
+* [GitHub in Government](https://github.com/jbjonesjr/github-in-government/blob/master/github-training.md) – a markdown file with many helpful links to training, tutorials, videos, onboarding and other documentation (including something you did on version control!)
+* [Contributing to Data.gov with GitHub 101](https://github.com/GSA/data.gov/wiki/Contributing-to-Data.gov-with-GitHub-101) – Data.gov’s guidance to their contributors
+* [Using GitHub](https://software.llnl.gov/about/using-github/) – LLNL’s guide for getting started with GitHub, specific to LLNL developers working in the LLNL GitHub organization
+* [GitHub](https://handbook.18f.gov/github/) – TTS Handbook on setup, rules, how-to, tips and resources
+* [WP-CLI Contributing](https://make.wordpress.org/cli/handbook/contributing/) documentation
+* [WP-CLI Quickstart](https://make.wordpress.org/cli/handbook/quick-start/) documentation
+* [WP-CLI Troubleshooting](https://make.wordpress.org/cli/handbook/troubleshooting/) documentation
+* [Rust-lang Contributing](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md) documentation
+* [Rust-lang Readme](https://github.com/rust-lang/rust) with quickstart documentation
+* [Rust-lang Governance](https://www.rust-lang.org/governance) documentation
 * [Jekyll’s Readme](https://github.com/jekyll/jekyll) highlights contributors, sponsors and backers with [quickstart](https://jekyllrb.com/docs/) info
 * [Jekyll’s Contributing](https://jekyllrb.com/docs/contributing/) documentation gives examples of types of contributions and expectations for submitting PRs
 * [Kubernetes Community Expectations](https://github.com/kubernetes/community/blob/master/contributors/guide/community-expectations.md) documentation
