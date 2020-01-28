@@ -1,4 +1,4 @@
-#Security Considerations
+# Security Considerations
 * Treat everything as code, which will ensure that known regulations are followed (and make it easier to ensure patches are universally applied)
 * Embrace automation – e.g., Dynamic Application Security Testing solutions, static code analysis to provide automated, early detection of security issues to complement peer reviews
 * Bring developers and security together – start with an initial secure coding workshop and include them in design reviews, etc.
@@ -77,9 +77,9 @@ Apache Security Guidance for Committers
   * The project team agrees on the fix, the announcement and the release schedule with the reporter.
 
 **Resources**
-[Open Source Software Security Risks and Best Practices](https://cloudacademy.com/blog/open-source-software-security-risks-and-best-practices/) by Cloud Academy
-[Inside the Government’s Open Source Software Conundrum](https://www.nextgov.com/cybersecurity/2019/05/inside-governments-open-source-software-conundrum/157186/) by Nextgov
-[Django’s security policies](https://docs.djangoproject.com/en/dev/internals/security/#reporting-security-issues) documentation
-[Apache Security](https://www.apache.org/security/) documentation
-[Apache Security guidance for committers](https://www.apache.org/security/committers.html) documentation
-(https://docs.djangoproject.com/en/2.2/topics/security/) - Security in Django (example)
+* [Open Source Software Security Risks and Best Practices](https://cloudacademy.com/blog/open-source-software-security-risks-and-best-practices/) by Cloud Academy
+* [Inside the Government’s Open Source Software Conundrum](https://www.nextgov.com/cybersecurity/2019/05/inside-governments-open-source-software-conundrum/157186/) by Nextgov
+* [Django’s security policies](https://docs.djangoproject.com/en/dev/internals/security/#reporting-security-issues) documentation
+* [Apache Security](https://www.apache.org/security/) documentation
+* [Apache Security guidance for committers](https://www.apache.org/security/committers.html) documentation
+* (https://docs.djangoproject.com/en/2.2/topics/security/) - Security in Django (example)
