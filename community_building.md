@@ -80,17 +80,17 @@ Notable exceptions to public communication are: 1) security issues and 2) sensit
 * Consider using Contributing.md document (or a separate doc) to outline community membership roles and how contributors can move up the ladder
     
 **Resources**
-Open Source Guides guide on Building Welcoming Communities
-Glen Sanford: On Code Review
-Code Review Workflow
-Expectations when submitting a PR
-CFPB Contributing – an example of providing internal and external contribution guidance
-Contribution Feedback
-Kubernetes Community Membership
-Kubernetes Community Expectations
-Kubernetes Pull Requests documentation
-WP-CLI Code Review documentation
-WP-CLI Pull Requests documentation
-Jekyll Contributing documentation with instructions for submitting a PR via github.com and via the Git command line; also differentiates between code and documentation contributions
-Setting expectations for open source participation blog by Brett Cannon
-Rust Language community page 
+* Open Source Guides guide on [Building Welcoming Communities](https://opensource.guide/building-community/)
+* Glen Sanford: [On Code Review](https://glen.nu/ramblings/oncodereview.php)
+* [Code Review Workflow](https://make.wordpress.org/cli/handbook/code-review/)
+* [Expectations when submitting a PR](https://make.wordpress.org/cli/handbook/pull-requests/#running-and-writing-tests)
+* [CFPB Contributing](https://github.com/cfpb/cfgov-refresh/blob/master/CONTRIBUTING.md) – an example of providing internal and external contribution guidance
+* [Contribution Feedback](https://snarky.ca/setting-expectations-for-open-source-participation/)
+* [Kubernetes Community Membership](https://github.com/kubernetes/community/blob/master/community-membership.md)
+* [Kubernetes Community Expectations](https://github.com/kubernetes/community/blob/master/contributors/guide/community-expectations.md)
+* [Kubernetes Pull Requests](https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md) documentation
+* [WP-CLI Code Review](https://make.wordpress.org/cli/handbook/code-review/) documentation
+* [WP-CLI Pull Requests](https://make.wordpress.org/cli/handbook/pull-requests/#running-and-writing-tests) documentation
+* [Jekyll Contributing](https://jekyllrb.com/docs/contributing/) documentation with instructions for submitting a PR via github.com and via the Git command line; also differentiates between code and documentation contributions
+* [Setting expectations for open source participation](https://snarky.ca/setting-expectations-for-open-source-participation/) blog by Brett Cannon
+* [Rust Language community page](https://www.rust-lang.org/community)
