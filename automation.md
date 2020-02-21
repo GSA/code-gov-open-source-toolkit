@@ -5,6 +5,7 @@
 * Require that all code contributions pass your tests before they can be submitted (required status checks)
 * If tests are added, make sure to explain how they work in the Contributing file
 Don’t make standards too complicated or that they increase barriers to contribution – should relieve developers of repetitive, low brain power work
+* Include automatic tests that can be run locally by developers pre-commit to check for non-public information that is inappropriate for contribution (e.g., tools like [cfpb's clouseau](https://github.com/cfpb/clouseau) or [git secrets](https://github.com/awslabs/git-secrets)).
 
 **Maintenance work**
 * [Semantic-release](https://github.com/semantic-release/semantic-release) automates releases
