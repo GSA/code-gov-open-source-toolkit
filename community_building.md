@@ -1,22 +1,23 @@
 # Community building and maintenance
 
 **Places to Congregate**
-It’s important to give your community a place to congregate to help them get to know each other. When communication is public and accessible, anyone can read past archives and get up to speed and participate. 
+It’s important to give your community a place to congregate to help them get to know each other and to contribute to code repositories. When communication is public and accessible, everyone can read past archives and get up to speed and participate. 
 
-Secondly, as a maintainer, if you don’t give people a public place to talk about your project, they will likely contact you directly. Public communication can be as simple as directing people to open an issue instead of emailing you directly or commenting on your blog.
+As a maintainer, you want to provide a public place for the community to discuss issues with code and submit pull requests (PRs) for review and inclusion in the current code base.
 
 Ideas for building community:
 
+* GitHub repository or similar public code sharing platform
 * Live chat (e.g., Slack channels, IRC, or Gitter)
 * Forum/thread-based communities (e.g., Discourse)
 * In-person meetups, conferences or events
-* GitHub issues or listserv
+* Community listserv
 * Office Hours
 * Social Media
 
 Notable exceptions to public communication are: 1) security issues and 2) sensitive code of conduct violations. People should be able to report these issues privately. 
 
-# Code Review
+## Code Review
 
 * All code in any code-base should look like a single person typed it, no matter how many people contributed. Principles of writing idiomatic JavaScript (WP-CLI)
 * Code review should probably always be your top priority, and you should figure out the best way to work it into your event loop (pending code review requests represent blocked threads of execution)
