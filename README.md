@@ -1,5 +1,5 @@
 # Federal Source Code and Open Source Toolkit
-**By [Code.gov](https://code.gov/) for federal agencies**
+**By [Code.gov](https://code.gov/) w/ support from various federal agency members**
 
 ## Description:
 This is a government-wide project facilitated by the [Code.gov](https://code.gov/) team to produce a toolkit pertaining to federal source code and open source software (OSS).
@@ -13,17 +13,17 @@ General thoughts about federal OSS.
 Additional content urging us to begin this effort can be found in the [background docs](background_docs) including the [Harvard Engagement Report](background_docs/HarvardEngagementReport.pdf) and a recent [UX study](background_docs/Always%20Improving_Making%20the%20Contribution%20to%20Repos%20Better.pdf) we conducted and [blogged](https://medium.com/codedotgov/always-improving-making-the-contribution-to-repos-better-3858db7c5511) about.
 
 ## Toolkit topics: 
-- [Project code automation](toolkit_docs/automation.md)
 - [Code quality](toolkit_docs/code_quality.md)
 - [Community building](toolkit_docs/communit_building.md)
-- [Repository documentation](toolkit_docs/documentation.md)
 - [General resources](toolkit_docs/general_resources.md)
 - [Managing issues](toolkit_docs/issues.md)
+- [Moving from close to open source](#) - TBD
 - [Project metrics](toolkit_docs/metrics_tracking.md)
+- [Repository documentation](toolkit_docs/documentation.md)
 - [Runing projects locally](toolkit_docs/run_locally.md)
 - [Security considerations](toolkit_docs/security_considerations.md)
+- [Source code automation](toolkit_docs/automation.md)
 - [Static code scanning](#) - TBD
-- [Moving from close to open source](#) - TBD
 
 ## Contributing:
 We welcome all contributions: issues are good, PRs are better. Check out our [contributing](CONTRIBUTING.md) guidelines for specifics.
