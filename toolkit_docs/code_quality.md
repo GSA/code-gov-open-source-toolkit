@@ -15,3 +15,4 @@ Build checks can be done using the following:
 * [CircleCI](https://circleci.com/)
 * [AppVeyor](https://www.appveyor.com/)
 * [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/)
+* [GitHub Actions](https://help.github.com/en/actions)
