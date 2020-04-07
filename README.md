@@ -20,7 +20,7 @@ Additional content urging us to begin this effort can be found in the [backgroun
 - [Moving from close to open source](#) - TBD
 - [Project metrics](toolkit_docs/metrics_tracking.md)
 - [Repository documentation](toolkit_docs/documentation.md)
-- [Runing projects locally](toolkit_docs/run_locally.md)
+- [Running projects locally](toolkit_docs/run_locally.md)
 - [Security considerations](toolkit_docs/security_considerations.md)
 - [Source code automation](toolkit_docs/automation.md)
 - [Static code scanning](#) - TBD
