@@ -14,7 +14,7 @@ Additional content urging us to begin this effort can be found in the [backgroun
 
 ## Toolkit topics: 
 - [Code quality](toolkit_docs/code_quality.md)
-- [Community building](toolkit_docs/communit_building.md)
+- [Community building](toolkit_docs/community_building.md)
 - [General resources](toolkit_docs/general_resources.md)
 - [Managing issues](toolkit_docs/issues.md)
 - [Moving from close to open source](#) - TBD
