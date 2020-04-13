@@ -23,7 +23,7 @@ Additional content urging us to begin this effort can be found in the [backgroun
 - [Running projects locally](toolkit_docs/run_locally.md)
 - [Security considerations](toolkit_docs/security_considerations.md)
 - [Source code automation](toolkit_docs/automation.md)
-- [Static code scanning](#) - TBD
+- [Static code scanning](toolkit_docs/static-code-scanning.md)
 
 ## Contributing:
 We welcome all contributions: issues are good, PRs are better. Check out our [contributing](CONTRIBUTING.md) guidelines for specifics.
