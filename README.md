@@ -1,4 +1,4 @@
-# Federal Source Code and Open Source Toolkit
+# Federal Source Code Toolkit
 **By [Code.gov](https://code.gov/) w/ support from various federal agency members**
 
 ## Description:
