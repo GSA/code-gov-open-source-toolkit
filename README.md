@@ -1,12 +1,12 @@
 # Federal Source Code Toolkit
-**By [Code.gov](https://code.gov/) w/ support from various federal agency members**
+**By [Code.gov](https://code.gov/) w/ support from federal agency colleagues**
 
 ## Description:
 This is a government-wide project facilitated by the [Code.gov](https://code.gov/) team to produce a toolkit pertaining to federal source code and open source software (OSS).
 
 General thoughts about federal OSS.
 
-> Based on the Code.gov source code inventory, agencies are publishing their open source code but the projects are not set up in a way supporting code reusablity.  In order to better align agency projects with the goals of the Federal Source Code Policy (FSCP), the Code.gov team launched this toolkit. We believe it offers additional resources for source code and OSS maintainers and helps support a growing community.
+> Based on the Code.gov source code inventory, agencies are publishing their open source code but the projects are not set up in a way for supporting code reusablity.  In order to better align agency projects with the goals of the Federal Source Code Policy (FSCP), the Code.gov team launched this toolkit to offer additional resources for source code and OSS maintainers.
 
 > The goal is to provide examples and resources on what really well managed open source projects entail while providing additional guidance for developers to follow when publishing projects.
 
@@ -17,7 +17,7 @@ Additional content urging us to begin this effort can be found in the [backgroun
 - [Community building](toolkit_docs/community_building.md)
 - [General resources](toolkit_docs/general_resources.md)
 - [Managing issues](toolkit_docs/issues.md)
-- [Moving from close to open source](#) - TBD
+- [Moving from closed to open source](#) - TBD
 - [Project metrics](toolkit_docs/metrics_tracking.md)
 - [Repository documentation](toolkit_docs/documentation.md)
 - [Running projects locally](toolkit_docs/run_locally.md)
