@@ -38,7 +38,7 @@ Toolkit content is arranged by audience member. We recognize there is some overl
 *Developers*
 
 - Choosing open source technologies
-- [Assessing code quality](toolkit_docs/code_quality.md) before going open source
+- [Assessing code quality before going open source](toolkit_docs/code_quality.md)
 - [Documenting repositories](toolkit_docs/documentation.md) 
 - [Running projects locally](toolkit_docs/run_locally.md)
 - [Managing repository code issues](toolkit_docs/issues.md)
