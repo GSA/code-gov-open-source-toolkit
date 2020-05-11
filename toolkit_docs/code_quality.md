@@ -1,6 +1,7 @@
 # Code quality
 
 **Having a good deployment pipeline with tests**
+For projects that are deployed in an environment (test, staging or production) it is important to ensure that the quailty of code has been tested thoroughly. Why? Well for starters if your team is constantly contributing new code to a code base, then you will want to test all of those quick small changes. Dependencies, updates to libraries and other elements are all checked and cleared when you use . Today, many of these checks are automated, thereby taking the burden off of the developer and open source code tests do the trick. 
 
 **Resources**
 
