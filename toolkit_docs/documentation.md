@@ -1,10 +1,10 @@
 # Documentation
-According to GitHub’s Open Source Survey, “documentation is highly valued, frequently overlooked, and a means for establishing inclusive and accessible communities” (2017). The survey found incomplete or outdated documentation is a pervasive problem observed by 93% of their respondents (GitHub, 2017). 
-Documentation that clearly explains a project’s processes in accessible language invites people to interact with it and is valued more by groups that are underrepresented in open source, like women and those who didn’t grow up speaking English (Building Welcoming Communities, n.d.).
-Documentation tells people why your project exists, how to install it, and how to use it. 
-Writing documentation improves the design of your code. For example, talking through your API and design decisions on paper allows you to think about them in a more formalized way. A nice side effect is that it allows people to contribute code that follows your original intentions as well. 
-
-Checklist for what documents should be included in a repository as a minimum (see templates below):
+According to GitHub’s own Open Source Survey, “documentation is highly valued, frequently overlooked, and a means for establishing inclusive and accessible communities” (2017). The survey found incomplete or outdated documentation is a pervasive problem observed by 93% of their respondents (GitHub, 2017). 
+Documentation that clearly explains a project’s processes in accessible, plain language invites people to interact with it and is valued more by groups that are underrepresented in open source, like women and those who didn’t grow up speaking English (Building Welcoming Communities, n.d.).
+Documentation tells people why your project exists, how to install it, and how to use it. It also provides a way to discover the history of your code and why certain behaviors have changed since inception. In many respects it is the guide to the maturation of a particular project. 
+Writing documentation improves the design of your code. For example, talking through your API and design decisions on paper allows you to think about them in a more formalized way and gives it structure and an easy to read approach. A nice side effect is that it allows people to contribute code that follows your original intentions as well. And, if they do decide to change the functionality, there will be an explanation as to why it was done the way it was. In this repo you will find some of the core elements to practicing good documentation. We hope that you take away with you a better sense of how to document code!
+ 
+Here you will find a Checklist for what documents should be included in a repository as a minimum (see templates below):
 * Code of conduct - recommendations
 * License - per Ian Lee, agencies default to Creative Commons license because they can’t hold copyright, but it is not an approved OS license (agencies like NASA, DOD have their own licenses for some projects)
 * README - makes it easier for anyone who lands on your project to get started
