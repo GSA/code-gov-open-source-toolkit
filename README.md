@@ -54,4 +54,4 @@ We welcome all contributions: issues are good, PRs are better. Check out our [co
 This is a federal government project with all content, code, and artifacts subject to Creative Commons Zero (CC0) 1.0 Universal or "No Rights Reserved." For more information, see our [license](LICENSE.md).
 
 ## Questions?
-If you have questions, please contact us: open an [issue](https://github.com/GSA/code-gov-open-source-toolkit/issues) in this repo or send an email to code@gsa.gov. Thanks!
+If you have questions, please contact us: open an [issue](https://github.com/GSA/code-gov-open-source-toolkit/issues) in this repo or send an email to code@gsa.gov.
