@@ -25,3 +25,4 @@
 * GitHub’s [issue templates and pull request templates](https://github.com/blog/2111-issue-and-pull-request-templates)
 * [Semantic-release](https://github.com/semantic-release/semantic-release) automates releases
 * [Kubernetes Development Automation](https://github.com/kubernetes/community/blob/master/contributors/devel/automation.md) documentation
+* [Microsoft's CodeQL] (https://securitylab.github.com/tools/codeql) implements a semantic code analysis engine, is github-integrated and is open source
